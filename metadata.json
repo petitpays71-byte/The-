@@ -1,0 +1,8 @@
+{
+  "name": "NUEVA TECHNOLOGY",
+  "description": "Plateforme pour les jeunes entrepreneurs, créateurs et apprenants africains - Formations, Conférences, Marketplace, Portefeuille MoMo & Assistant IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
